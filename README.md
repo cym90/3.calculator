@@ -102,6 +102,7 @@ ReasoningCalc는 일반적인 계산기와 달리 계산 결과만 보여주는 
 ### ④ LLM 시뮬레이션 설정
 
 사용자가 계산 과정의 표시 속도와 설명 스타일을 선택할 수 있습니다.
+<img width="1206" height="863" alt="image" src="https://github.com/user-attachments/assets/ed2310eb-5d82-4d76-8e1c-d5a7c9161b84" />
 
 **사고 속도**
 - 빠름: 200ms
